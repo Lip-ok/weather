@@ -1,0 +1,11 @@
+.searchWrapper {
+    display: flex;
+    margin-bottom: 20px;
+}
+input {
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+}
+
+
